@@ -1,0 +1,2 @@
+C:\Users\Alizada\Desktop\taks-windows-services-master\WS-Logging\obj\Debug\WS-Logging.csprojResolveAssemblyReference.cache
+C:\Users\Alizada\Desktop\taks-windows-services-master\WS-Logging\obj\Debug\WS-Logging.csproj.CoreCompileInputs.cache

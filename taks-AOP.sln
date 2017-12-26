@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taks-windows-services", "taks-windows-services\taks-windows-services.csproj", "{A368C042-89FE-4178-B48B-EACE8F01C260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS-Logging", "WS-Logging\WS-Logging.csproj", "{60B2D237-F526-4A25-A809-E676FF11D679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A368C042-89FE-4178-B48B-EACE8F01C260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A368C042-89FE-4178-B48B-EACE8F01C260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A368C042-89FE-4178-B48B-EACE8F01C260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A368C042-89FE-4178-B48B-EACE8F01C260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60B2D237-F526-4A25-A809-E676FF11D679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B2D237-F526-4A25-A809-E676FF11D679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B2D237-F526-4A25-A809-E676FF11D679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B2D237-F526-4A25-A809-E676FF11D679}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C25A1B65-B376-4A30-994C-00F27CF9A3BC}
+	EndGlobalSection
+EndGlobal
